@@ -1,0 +1,58 @@
+[
+  {
+    "id": "camp_001",
+    "name": "Spring Promo — Carousel A/B",
+    "ad_set": "Retargeting — 30d Site Visitors",
+    "spend": 1840.32,
+    "impressions": 128400,
+    "ctr": 0.98,
+    "cpa": 41.20,
+    "frequency": 4.7,
+    "days_running": 21,
+    "creative_type": "Carousel",
+    "top_hook": "Still thinking about it? Here's 15% off.",
+    "raw_notes": "Frequency creeping past 4, CTR down from 1.6% three weeks ago. No new creative uploaded since launch."
+  },
+  {
+    "id": "camp_002",
+    "name": "Cold Prospecting — UGC Testimonial Set",
+    "ad_set": "Lookalike 1% — Purchasers",
+    "spend": 3120.00,
+    "impressions": 402000,
+    "ctr": 1.42,
+    "cpa": 28.90,
+    "frequency": 1.9,
+    "days_running": 9,
+    "creative_type": "UGC Video",
+    "top_hook": "I didn't believe it until I tried it myself.",
+    "raw_notes": "Healthy performance, still scaling. Only 2 creative variants live — room to test more hooks before fatigue sets in."
+  },
+  {
+    "id": "camp_003",
+    "name": "Flash Sale — Static Discount Stack",
+    "ad_set": "Broad — 25-54 Interest Stack",
+    "spend": 960.75,
+    "impressions": 88900,
+    "ctr": 0.61,
+    "cpa": 63.40,
+    "frequency": 3.1,
+    "days_running": 14,
+    "creative_type": "Static Image",
+    "top_hook": "Flash sale ends tonight!",
+    "raw_notes": "Weakest performer in the account. Static-only creative, same three images since launch, no urgency variation."
+  },
+  {
+    "id": "camp_004",
+    "name": "Evergreen Brand — Founder Story",
+    "ad_set": "Broad — Interest + Behavior",
+    "spend": 2210.10,
+    "impressions": 210500,
+    "ctr": 1.15,
+    "cpa": 35.60,
+    "frequency": 2.4,
+    "days_running": 45,
+    "creative_type": "Video",
+    "top_hook": "Why I started this company at my kitchen table.",
+    "raw_notes": "Stable long-runner. No refresh in 6 weeks — due for a hook rotation before it decays."
+  }
+]

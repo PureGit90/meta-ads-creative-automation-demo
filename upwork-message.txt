@@ -1,0 +1,9 @@
+You've got a 10-step marketing automation process mapped out and want someone to pressure-test it, then build it. I put together a working version of the creative fatigue audit piece before applying.
+
+Live demo: https://meta-ads-creative-automation-demo.streamlit.app/
+
+It pulls per-campaign performance (spend, CTR, frequency, CPA), scores each campaign for creative fatigue, explains what's actually going wrong, and auto-generates 3 new hook variants ready to test. Everything's ranked so you know what to fix first.
+
+I've built automation systems on Zapier, Make, and n8n before, including ones that use Claude for the actual content generation and diagnosis instead of just simple triggers. The "audit first, build second" approach in your post is exactly how I'd want to work this: figure out what's actually broken in the 10 steps, then implement, then hand off with documentation so your team isn't dependent on me to run it.
+
+$60/hr to start. Happy to walk through the demo and talk through which of your 10 steps need the most attention.
